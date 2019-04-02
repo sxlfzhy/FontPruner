@@ -1,0 +1,1 @@
+在这里设置你需要支持的非中文内容集合，可以重复。如：abcdefghijklmnopqrstuvwxyz1234567890:;,.
